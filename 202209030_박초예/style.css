@@ -1,0 +1,135 @@
+/* 블럭 1번 */
+.box1{
+    width: 100%;
+    height: 1280px;
+    background-image: url(img/bg01.png);
+    background-position: center;
+    background-size: cover;
+    position: static;
+}
+.img-wrap{
+    width: 100%;
+    height: 208px;
+    margin: 0;
+}
+.img-1{
+    width: 200px;
+    height: 130px;
+    margin: 39px 0px 39px 105px;
+}
+.img-2{
+    width: 1100px;
+    height: 30px;
+    position: absolute;
+    left: 50%;
+    margin-left: -550px;
+    margin-top: 89px;
+}
+.can1{
+    width: 1100px;
+    height: 875px;
+    position: absolute;
+    left: 50%;
+    margin-left: -550px;
+    margin-top: 54px;
+}
+/* 블럭 2번 */
+.box2{
+    width: 100%;
+    height: 652px;
+    background-color: #8E0632;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cont2{
+    width: 1100px;
+    height: 258px;
+}
+/* 블럭 3번 */
+.box3{
+    width: 100%;
+    height: 800px;
+    background-image: url(img/bg02.png);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+.img-wrap2{
+    width: 1920px;
+    height: 800px;
+    margin: 0;
+}
+.img-3{
+    width: 638px;
+    height: 485px;
+    position: absolute;
+    margin: 171px 872px 144px 410px;
+}
+.img-4{
+    width: 1100px;
+    height: 800px;
+    position: absolute;
+    left: 50%;
+    margin-left: -550px;
+}
+/* 블럭 4번 */
+.box4{
+    width: 100%;
+    height: 467px;
+    background-color: #8E0632;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.cont4{
+    width: 1100px;
+    height: 152px;
+}
+/* 블럭 5번 */
+.box5{
+    width: 100%;
+    height: 1391px;
+    background-image: url(img/bg03.png);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    position: relative;
+    margin: 0% auto;
+}
+.can3{
+    width: 1100px;
+    height: 922px;
+    position: absolute;
+    left: 50%;
+    margin-left: -550px;
+    margin-top: 76px;
+}
+.text4{
+    width: 1100px;
+    height: 179px;
+    position: absolute;
+    left: 50%;
+    margin-left: -550px;
+    margin-top: 1064px;
+}
+/* 블럭 6번 */
+.box6{
+    width: 100%;
+    height: 410px;
+    background-color: #8E0632;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin: 0% auto;
+}
+.cont6{
+    width: 258px;
+    height: 167px;
+    position: absolute;
+    margin: 118px 831px 125px 831px;
+}
